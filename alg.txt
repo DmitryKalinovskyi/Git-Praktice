@@ -1,2 +1,2 @@
-Some secret alg
+some secret ALG
 
