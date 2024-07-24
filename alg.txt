@@ -1,6 +1,7 @@
 while(alive()){
    hack();
-   sleep();
+  //dont forget to sleep
+  sleep();
 }
 
 some secret ALG
