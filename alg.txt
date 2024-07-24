@@ -3,5 +3,5 @@ while(alive()){
    eat();
 }
 
-Some secret alg
+some secret ALG
 
