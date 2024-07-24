@@ -1,2 +1,7 @@
+while(alive()){
+   hack();
+   eat();
+}
+
 some secret ALG
 
